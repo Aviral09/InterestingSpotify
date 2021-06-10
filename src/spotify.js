@@ -2,7 +2,7 @@
 // documentation/web-playback-sdk
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "https://interestingspotify.web.app/";
+const redirectUri = "https://interesting-spotify.web.app/";
 const clientId = "26bd7f3b5d0440f1b900eb2bd45120ed";
 
 const scopes = [
