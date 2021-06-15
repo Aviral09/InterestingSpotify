@@ -1,7 +1,18 @@
 ## Spotify Clone
 
-To run the spotify clone please <code>npm start</code> in the terminal, and to build the production version, please do <code>npm run build</code>.
+This is non functioning clone of spotify.
+Features Implemented - 
+1. Login with Spotify
+2. UI design
 
-## Live project
+<br />
+To start locally, clone the repo and run - 
 
-The project can be found live at <a href="https://spotify-clone-d8b45.web.app/">https://spotify-clone-d8b45.web.app/</a>
+```
+$ npm i
+$ npm start
+```
+
+## Deployment
+
+Deployed using Firebase hosting at <a href="https://interesting-spotify.web.app/">https://interesting-spotify.web.app/</a>
